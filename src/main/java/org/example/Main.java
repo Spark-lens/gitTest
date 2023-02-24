@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello GitHub!");
         System.out.println("===== 测试idea使用git =====");
         System.out.println("===== 测试idea使用git =====");
+        System.out.println("===== 测试查看版本 third commit =====");
     }
 }
