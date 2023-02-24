@@ -8,5 +8,6 @@ public class Main {
         System.out.println("===== 测试查看版本 third commit =====");
         System.out.println("===== 测试合并分支 合并hot-fix =====");
         System.out.println("===== 测试合并分支冲突 冈崎朋也 =====");
+        System.out.println("===== 测试合并分支冲突 古河渚 =====");
     }
 }
