@@ -10,5 +10,6 @@ public class Main {
         System.out.println("===== 测试合并分支冲突 冈崎朋也 =====");
         System.out.println("===== 测试合并分支冲突 古河渚 =====");
         System.out.println("===== 测试Push到GitHub =====");
+        System.out.println("===== 测试Pull到idea =====");
     }
 }
